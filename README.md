@@ -19,10 +19,3 @@ significant signals — explained in plain English.
 
 ## Built for
 ET Markets Hackathon 2026
-```
-
-Then commit it:
-```
-git add README.md
-git commit -m "Add README"
-git push
